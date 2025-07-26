@@ -60,8 +60,7 @@ If you had fun with the projects, please consider buying us a [cup of coffee](ht
 It is not common, but we received a report from an user about an ESP crash with the error:<br>
 "Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled." <br>
 This user solved the issue by increasing price buffer in the line " char pricebuffer[sizeof(tempmarketprice)+10]; " from +1 to +10.
-<br>
-<br>
+
 <h3><u>If you like mining Bitcoin at home</u></h3>
 Interested in mining Bitcoin at home with small miners or just looking for cool Bitcoin merchandise? Check out BitcoinMerch.com. You will get a 5% discount by using the code BloxyLabs. Visit their website by clicking the banner below to support the channel
 
